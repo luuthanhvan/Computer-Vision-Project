@@ -1,0 +1,39 @@
+item {
+    id: 1
+    name: 'banh_khot'
+}
+
+item {
+    id: 2
+    name: 'banh_pia'
+}
+
+item {
+    id: 3
+    name: 'banh_tet'
+}
+
+item {
+    id: 4
+    name: 'banh_xeo'
+}
+
+item {
+    id: 5
+    name: 'bun_mam'
+}
+
+item {
+    id: 6
+    name: 'bun_thit_nuong'
+}
+
+item {
+    id: 7
+    name: 'com_tam'
+}
+
+item {
+    id: 8
+    name: 'goi_cuon'
+}
