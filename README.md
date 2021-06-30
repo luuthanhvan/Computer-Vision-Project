@@ -82,4 +82,4 @@ python test_object_detection.py
 ```
 
 # Training an Object Detection model using Google Colab
-Using computer_vision.ipynb
+Using train_model.ipynb
